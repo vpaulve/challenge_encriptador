@@ -39,4 +39,12 @@ Se tienen las siguientes funciones en dicho archivo:
 **Archivo style.css
 Contienen los diferentes estilos para el diseño del archivo index.html de tal forma que pueda darle diferentes características como color de texto, fondo de botones, tipografía, posicionamiento de los diferentes elementos involucrados entre otros.
 
+El mensaje secreto encriptado que pusieron en Trello:
+
+fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober!
+
+viene a ser al desencriptarse:
+
+felicidades por enfrentar este desafio y haberlo concluido con exito!
+
 
